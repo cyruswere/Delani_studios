@@ -28,33 +28,6 @@ $ git clonehttps://cyruswere.github.io/Delani_studios/
 3. Git
 4. JAVASCRIPT
 5. BOOTSRAP
-
-### BDD
-| The web, on opening, displays the contents, loads the forms and images |
-
-| The web displays styled items, neatly arranged. |
-
-| The form on the web allows the user to click in the calendar to select date with the following inputs|
-
-        | Inputs | Description |
-        |:---        |          ---: |
-
-        | Year   | The year  ``eg 2021``  |
-
-        | Month  | The month of the year ``eg 12``  |
-
-        | Date   | The date of the month ``eg 15`` |
-
-The site display error on the follwing events
-        | Inputs              | Description      |
-
-        |:---            ---: |:---          ---:|
-
-        | Year month or date  | Empty submission | ``ensure all entries are filled correctly``  |
-        
-The site allows the user to clear inputs by clicking on the clear button
-    
-
 ### Live Site
 View [Live] (https://cyruswere.github.io/Akan-names/)
 
