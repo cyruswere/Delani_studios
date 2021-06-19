@@ -13,7 +13,7 @@ html {
   padding-top: 5%;
   color: white;
   height: 650px;
-  /* margin-top: 30px; */
+  
 }
 .landing h1 {
   font-size: 50px;
@@ -27,8 +27,7 @@ html {
 #log {
   height: 120px;
   width: 120px;
-  /* margin-top: 12px;
-    margin-bottom: 12px; */
+  
 }
 #mouse_click {
   margin-top: 10%;
@@ -85,8 +84,7 @@ html {
   text-align: center;
   font-family: "Abril Fatface", cursive;
   font-size: 55px;
-  /* padding-top: 3%; */
-}
+
 .title {
   font-family: "Courgette", cursive;
 }
@@ -102,7 +100,6 @@ html {
 #product,
 #dev {
   display: none;
-  /* font-family: Helvetica,Arial,sans-serif; */
   font-size: 16px;
 }
 .portfolio {
@@ -116,9 +113,7 @@ html {
 .tile {
   font-size: 55px;
 }
-/* #port{
-  position: fixed;
-} */
+
 .col-md-3 p {
   padding-top: 3%;
   font-size: 25px;
@@ -167,8 +162,6 @@ html {
   width: 700px;
   max-width: 100%;
   left: 50%;
-  /* transform: translate(-60%); */
-  /* position: relative; */
   text-align: center;
 }
 #comment {
