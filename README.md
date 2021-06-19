@@ -17,7 +17,7 @@ To access this project on your local files, you can clone it using these steps
 1. Open your terminal
 2. Use this command to clone 
 ```
-$ git clonehttps://github.com/cyruswere/My_portfolio.git
+$ git clonehttps://github.com/cyruswere/Delani_studios.git
 ```
 3. This will clone the repositoty into your local folder
  __Enjoy :)__
