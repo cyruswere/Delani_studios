@@ -99,4 +99,4 @@ $(document).ready(function () {
             alert("Thank you for your feedback, our personnel will reach out to you.")
         }
     });
-}
+});
