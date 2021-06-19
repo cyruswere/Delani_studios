@@ -4,7 +4,7 @@
 CYRUS SETH WERE
 
 ### Project Description
-This is a website that is based on the Ghanian Akans naming system.The web interface asks the user to input his or her birthday, select the gender then proceeds to submit the data to get the would have been Akhan names.
+This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.
 
 
 ### Prerequisities
